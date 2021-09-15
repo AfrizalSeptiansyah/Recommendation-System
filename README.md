@@ -24,11 +24,11 @@ I used cosine similarity to find the similarities between the metadata and 10 me
 
 ### 4. ML Engineering 
 
-At this stage I wrapped all the programs for the recommender system so that it would be easier to use. As can be seen below:
+At this stage I wrapped all the programs for the recommender system so that it would be easier to use. As can be seen below an example of aladin film:
 
-gambar 
+![result](https://github.com/AfrizalSeptiansyah/Recommendation-System/blob/main/asset/recommender.PNG?raw=true)
 
 # Conclusion 
 So far, we have succeeded in prototyping the recommendation system, please give it a try.
 
-Thank for reading :) 
+Thank you for reading :) 
